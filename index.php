@@ -5,6 +5,6 @@
     <title>SpacePlace</title>
   </head>
   <body>
-    <p>Beginning of the development</p>
+    <p>Beginning of the development!!</p>
   </body>
 </html>
